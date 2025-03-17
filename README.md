@@ -1,5 +1,5 @@
 <div align="center">
-  #WELCOME TO Eunseo's repository
+  <span><font color="green">WELCOME TO Eunseo's repository</font></span>
 </div>
 
 <!--내용 부분-->
