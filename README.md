@@ -58,7 +58,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/codeigniter-#EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />&nbsp
 </div>
 
 <h3 align="center">☁️ Hosting/SaaS ☁️</h3>
@@ -76,7 +76,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid" />&nbsp
   <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />&nbsp
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
