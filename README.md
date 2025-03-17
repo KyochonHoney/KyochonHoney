@@ -1,5 +1,5 @@
 <div align="center">
-  <h3 align="center">WELCOME TO Eunseo's repository 🎶⚡🔅✨</h3>
+  <h1 align="center">WELCOME TO Eunseo's repository 🎶⚡🔅✨</h3>
 </div>
 
 <!--내용 부분-->
