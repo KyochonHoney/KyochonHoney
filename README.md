@@ -69,6 +69,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/pyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white" />&nbsp
 </div>
 
 <h3 align="center">☁️ Hosting/SaaS ☁️</h3>
