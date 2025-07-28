@@ -73,6 +73,11 @@
   <img src="https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />&nbsp
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />&nbsp
+</div>
+
 <h3 align="center">☁️ Hosting/SaaS ☁️</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp
@@ -105,7 +110,11 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/filezilla-BF0000.svg?style=for-the-badge&logo=filezilla&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/googleanalytics-E37400.svg?style=for-the-badge&logo=googleanalytics&logoColor=white" />&nbsp
 </div>
 
 <h3 align="center">📫 Contact 📫</h3>
